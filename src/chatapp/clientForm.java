@@ -57,6 +57,8 @@ public class clientForm extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
+        //trung test github
+
         jLabel1 = new javax.swing.JLabel();
         txtHost = new javax.swing.JTextField();
         connectButton = new javax.swing.JButton();
